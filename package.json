@@ -1,0 +1,26 @@
+{
+  "name": "google-form-submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-form-send": "^2.0.1",
+    "google_forms_api": "^1.0.6",
+    "install": "^0.13.0",
+    "mathjs": "^9.5.0",
+    "node-schedule": "^2.0.0",
+    "npm": "^7.24.1",
+    "prompt-sync": "^4.2.0",
+    "random": "^3.0.6",
+    "random-hour": "^1.0.3",
+    "random-minute": "^1.0.4",
+    "random-second": "^1.0.3",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5"
+  }
+}
